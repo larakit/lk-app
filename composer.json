@@ -22,7 +22,6 @@
         "laravel/framework": "5.6.*",
         "laravel/tinker": "~1.0",
         "barryvdh/laravel-ide-helper": "*",
-        "barryvdh/laravel-debugbar": "*",
         "larapack/dd": "1.*",
         "hirak/prestissimo": "^0.3"
     },
